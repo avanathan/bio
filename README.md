@@ -1,5 +1,5 @@
 ## Arun Avanathan
-Software Architect, (https://developer.intuit.com)[Intuit Developer Platform]
+Software Architect, [Intuit Developer Platform](https://developer.intuit.com)
 
 ### Summary
 Experienced in building / managing highly scalable websites using Open Source technologies such as Java, Spring, MySQL, NGinx, Tomcat, Jetty, Memcached on AWS
