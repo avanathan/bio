@@ -2,10 +2,10 @@
 Software Architect, [Intuit Developer Platform](https://developer.intuit.com)
 
 ### Summary
-Experienced in building / managing highly scalable websites using Open Source technologies such as Java, Spring, MySQL, NGinx, Tomcat, Jetty, Memcached on AWS
+> Experienced in building / managing highly scalable websites using Open Source technologies such as Java, Spring, MySQL, NGinx, Tomcat, Jetty, Memcached on AWS
 
-* High performance eCommerce applications, 
-* Architecture & Engineering Management
+> * High performance eCommerce applications, 
+> * Architecture & Engineering Management
 * Large Scale Infrastructure maintenance
 * Expert on AWS Native services
 * Customer focussed and Driven by metrics
