@@ -68,8 +68,8 @@ Stylehive is a social networking website for people interested in fashion & shop
 * Application Performance Tuning &amp; Architecture
 * Java, J2EE frameworks on unix platform & Oracle Database
 
-### Principal Consultant at MindTree (February 2001 - December 2007)
+#### Principal Consultant at MindTree (February 2001 - December 2007)
 Through MindTree worked for ATKearney, Franklin Templeton, eBay, TravelCLICK &amp; Sabre Holdings in multiple ecommerce &amp; enterprise apllications at various roles - Software Engineer, Technical Lead, Architect, Configuration/Release Manager, Project Manager &amp; Development Manager
 
-### Developer at Wipro Technologies (August 1996 - February 2001)
+#### Developer at Wipro Technologies (August 1996 - February 2001)
 Worked for Fortune 500 clients (GE, Schlumberger to name few) on Engineering. Primarily on Java based Technologies on Unix platform & Oracle
