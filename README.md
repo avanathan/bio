@@ -4,22 +4,22 @@ Software Architect, [Intuit Developer Platform](https://developer.intuit.com)
 ### Summary
 > Experienced in building / managing highly scalable websites using Open Source technologies such as Java, Spring, MySQL, NGinx, Tomcat, Jetty, Memcached on AWS
 
-> * High performance eCommerce applications, 
-> * Architecture & Engineering Management
+* High performance eCommerce applications, 
+* Architecture & Engineering Management
 * Large Scale Infrastructure maintenance
 * Expert on AWS Native services
 * Customer focussed and Driven by metrics
 
 ### Experience
 #### Architect at [Intuit](https://www.intuit.com) (January 2017 - Present)
-* Influencing teams to kill the clones, converge and work towards common goal.
-* Arriving at Target State Architecture for [Intuit Developer Portal](https://developer.intuit.com) and [App Store](https://apps.intuit.com)
-* Decomposing the monolith from internal data centers into highly available micro services in AWS (Spring Boot, MySQL RDS, ElastiCache, ActiveMQ, S3, Lambda and EC2). 
-* Partnering with Product to deliver awesome customer experience.
-* Enabling the teams to move faster to AWS (Training, Mentoring, Building Shared Libraries, [Sceptre](https://github.com/cloudreach/sceptre))
-* Providing Architecture for migrating Developers from OAuth 1 to OAuth 2
-* Helping the teams to decompose and build isolated services with polyglot persistence model * Being application security champion for the team
-* Mentored Sr/Staff engineers to become better in AWS and Distributed systems with a goal of making my "Architect" role redundant.
+> * Influencing teams to kill the clones, converge and work towards common goal.
+> * Arriving at Target State Architecture for [Intuit Developer Portal](https://developer.intuit.com) and [App Store](https://apps.intuit.com)
+> * Decomposing the monolith from internal data centers into highly available micro services in AWS (Spring Boot, MySQL RDS, ElastiCache, ActiveMQ, S3, Lambda and EC2). 
+> * Partnering with Product to deliver awesome customer experience.
+> * Enabling the teams to move faster to AWS (Training, Mentoring, Building Shared Libraries, [Sceptre](https://github.com/cloudreach/sceptre))
+> * Providing Architecture for migrating Developers from OAuth 1 to OAuth 2
+> * Helping the teams to decompose and build isolated services with polyglot persistence model * Being application security champion for the team
+> * Mentored Sr/Staff engineers to become better in AWS and Distributed systems with a goal of making my "Architect" role redundant.
 
 #### Principal Software Engineer at Intuit (January 2014 - Dec 2016)
 * Drove the initiative "break the monolith" for [QuickBooks Payroll](https://payroll.intuit.com).
