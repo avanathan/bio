@@ -76,3 +76,7 @@ Through MindTree worked for ATKearney, Franklin Templeton, eBay, TravelCLICK &am
 
 #### Developer at Wipro Technologies (August 1996 - February 2001)
 Worked for Fortune 500 clients (GE, Schlumberger to name few) on Engineering. Primarily on Java based Technologies on Unix platform & Oracle
+
+### Education
+* Master of Computer Applications (University of Mysore, India)
+* Bachelor of Science (University of Mysore, India)
