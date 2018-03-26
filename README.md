@@ -11,7 +11,7 @@ Software Architect, [Intuit Developer Platform](https://developer.intuit.com)
 * Customer focussed and Driven by metrics
 
 ### Experience
-#### Architect at [Intuit](https://www.intuit.com) (January 2017 - Present)
+#### [Intuit]() Architect, Intuit Developer Platform (January 2017 - Present)
 > - Influencing teams to kill the clones, converge and work towards common goal.
 > - Arriving at Target State Architecture for [Intuit Developer Portal](https://developer.intuit.com) and [App Store](https://apps.intuit.com)
 > * Decomposing the monolith from internal data centers into highly available micro services in AWS (Spring Boot, MySQL RDS, ElastiCache, ActiveMQ, S3, Lambda and EC2). 
